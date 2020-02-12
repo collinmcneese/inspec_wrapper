@@ -1,0 +1,9 @@
+interval = 1500
+splay = 300
+splay_first_run = 0
+run_lock_timeout = 300
+log_level = "warn"
+ssl_verify_mode = ":verify_none"
+
+[chef_license]
+acceptance = "accept-no-persist"
