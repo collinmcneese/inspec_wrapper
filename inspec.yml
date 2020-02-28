@@ -3,10 +3,10 @@ title: Collin McNeese
 maintainer: "Collin McNeese <cmcneese@chef.io>"
 license: Apache-2.0
 summary: An InSpec Compliance Profile Wrapper
-version: 0.1.0
+version: 1.0.0
 supports:
-  - platform_family: linux
-  - platform_family: windows
+  - platform: redhat
+  - platform: windows
 depends:
   - name: windows_baseline
     git: https://github.com/dev-sec/windows-baseline.git
