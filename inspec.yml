@@ -1,9 +1,9 @@
 name: base
-title: Collin McNeese
+title: inspec_wrapper
 maintainer: "Collin McNeese <cmcneese@chef.io>"
 license: Apache-2.0
 summary: An InSpec Compliance Profile Wrapper
-version: 1.0.0
+version: 1.0.1
 supports:
   - platform: redhat
   - platform: windows
