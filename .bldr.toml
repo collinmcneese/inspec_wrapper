@@ -1,4 +1,5 @@
 [inspec_wrapper]
+plan_path = "habitat"
 build_targets = [
   "x86_64-linux",
   "x86_64-linux-kernel2",
